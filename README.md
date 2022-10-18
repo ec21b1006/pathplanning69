@@ -6,5 +6,3 @@
 #### I will be adding more resources and source codes to this repo while working on the project itself
 
 :v: Peace
-
-![image](https://github.githubassets.com/images/icons/emoji/unicode/270c.png)
